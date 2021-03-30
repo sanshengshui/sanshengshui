@@ -8,7 +8,7 @@
 
 
 
-:seedling: ​微信公众号: **物联网技术指导**
+:seedling: ​微信公众号: **格IoT致知**
 
 :wind_chime: 网站: [iot.mushuwei.cn](https://iot.mushuwei.cn/#/)
 
